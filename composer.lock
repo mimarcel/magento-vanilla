@@ -4,9 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eb253b7b2507ac08acc59283cb7078d7",
-    "packages": [],
-    "packages-dev": [
+    "content-hash": "7b59bf1f593fbd6887cc55229d55d2b8",
+    "packages": [
         {
             "name": "aydin-hassan/magento-core-composer-installer",
             "version": "1.5.0",
@@ -559,6 +558,7 @@
             "time": "2018-04-26T10:06:28+00:00"
         }
     ],
+    "packages-dev": [],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": [],

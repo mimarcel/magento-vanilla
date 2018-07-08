@@ -1,6 +1,6 @@
 {
     "name": "mimarcel/magento-vanilla",
-    "require-dev": {
+    "require": {
         "magento-hackathon/magento-composer-installer": "~3.0",
         "aydin-hassan/magento-core-composer-installer": "~1.2",
         "firegento/magento": "~1.9.2"
