@@ -4,9 +4,9 @@ This is a Magento 1 core installation which you can use to easily test and play 
 
 ## Install
 Pre-requisites:
-* web server installed
-* database management server installed
-* php installed
+* web server installed, e.g. Apache
+* database management system installed, e.g. MySQL
+* PHP installed
 
 Steps:
 1. Clone this repository
