@@ -2,8 +2,13 @@
 
 This is a Magento 1 core installation which you can use to easily test and play with Magento.
 
-## Setup
+## Install
+Pre-requisites:
+* web server installed
+* database management server installed
+* php installed
 
+Steps:
 1. Clone this repository
 2. Create virtual host on your local environment which points to the directory of this repository
 3. Access this repository through the virtual host to install Magento
