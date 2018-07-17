@@ -10,6 +10,9 @@ Pre-requisites:
 
 Steps:
 1. Clone this repository
+```
+git clone git@github.com:mimarcel/magento-vanilla.git
+```
 2. Create virtual host on your local environment which points to the directory of this repository
 3. Access this repository through the virtual host to install Magento
 
